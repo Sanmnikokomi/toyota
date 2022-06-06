@@ -1,0 +1,3 @@
+pelumi
+ayomig
+olowoori
