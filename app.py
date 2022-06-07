@@ -4,4 +4,4 @@ print('baba')
 print('ayomi')
 print('obami')
 print('loves')
-
+# bugs remove
